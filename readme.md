@@ -1,4 +1,4 @@
-# 🛡️ Realistic Traffic Simulator (Anti-DDoS Tester)
+# 🛡️ Realistic Traffic Simulator
 
 This tool is a C#-based traffic simulator designed to help you test your website's anti-DDoS protections and rate-limiting capabilities. It sends realistic HTTP GET requests from randomized user-agents to mimic human-like web traffic.
 
